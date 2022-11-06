@@ -5,12 +5,12 @@ let path = require('path')
 let fs = require('fs')
 let package = require('./package.json')
 const CFonts  = require('cfonts')
-CFonts.say('MultiDevice\nRazen', {
+CFonts.say('MultiDevice\nNizar', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say(`'${package.name}' By @${package.author.name || package.author}`, {
+CFonts.say(`'${package.name}' By 𝐍𝐢𝐳𝐚𝐫 𝐑𝐚𝐡𝐦𝐚𝐧 || package.author}`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
