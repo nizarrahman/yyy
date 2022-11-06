@@ -8,7 +8,7 @@
 <img src="https://telegra.ph/file/c6f6d447f2c76e3795a10.jpg" alt="Img" width="400" height="400"/>
 </p>
  <p align="center">
-<a href="#"><img title="JAROT OFFC" src="https://img.shields.io/badge/JAROT%20OFFC-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Nizar Rahman" src="https://img.shields.io/badge/JAROT%20OFFC-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://wa.me/6285850539404"><img title="Author" src="https://img.shields.io/badge/Author-JAROT OFFC/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -37,13 +37,13 @@ Project created by <a href="https://github.com/nizarrahman">Nizar Rahman</a> to 
 ```-  How to reach me ...```
 
 ## ```𝐠𝐫𝐨𝐮𝐩 𝐛𝐨𝐭 𝐍𝐚𝐢-𝐃𝐞𝐯-𝐌𝐝```
-[![Group Bot 1](https://img.shields.io/badge/Group%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://tinyurl.com/2nchxnpa) 
-[![Group Bot 2 ](https://img.shields.io/badge/Group%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://tinyurl.com/2gptyhqs) 
+[![Group Bot 1](https://img.shields.io/badge/Group%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://tinyurl.com/2nchxnpa](https://chat.whatsapp.com/BWHiCcMOZG39gYt1HCc2ue)) 
+[![Group Bot 2 ](https://img.shields.io/badge/Group%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://tinyurl.com/2gptyhqs](https://chat.whatsapp.com/LvJgI6TTVn0B2r8cpUBSQL)) 
 ---------
 
 ## Stats
 
-![Jarotr Offc GitHub stats](https://github-readme-stats.vercel.app/api?username=nizarrahman&show_icons=true&theme=radical)
+![Nizar Rahman GitHub stats](https://github-readme-stats.vercel.app/api?username=nizarrahman&show_icons=true&theme=radical)
 
 <p align="center"><a href="https://github.com/Kangsad01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nizarrahman&theme=radical&layout=compact"></a></p>
 
