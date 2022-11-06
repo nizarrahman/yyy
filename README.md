@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=WELCOME;My+name+is+JAROT-OFFC;IKUTIN-SOSIALMEDIA+SAYA!!;JANGAN+LUPA+JOIN+GROUP%2C++Bwang+%3A);jangan+lupa+kasih+start+!" alt="budii">
+  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=WELCOME;My+name+is+Nizar Rahman;IKUTIN-SOSIALMEDIA+SAYA!!;JANGAN+LUPA+JOIN+GROUP%2C++Bwang+%3A);jangan+lupa+kasih+start+!" alt="budii">
 
 </p>
 <div align="center">
@@ -18,7 +18,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Alpiii22">JAROT OFFC</a> to make it public
+Project created by <a href="https://github.com/nizarrahman">Nizar Rahman</a> to make it public
     <br>
        | © |
         Reserved |
@@ -26,7 +26,7 @@ Project created by <a href="https://github.com/Alpiii22">JAROT OFFC</a> to make 
 </p>
 
 
-```-  Hi, I’m @MR.JAROT OFFC```
+```-  Hi, I’m @NIzar Rahman```
 
 ```-  I’m interested in ...```
 
@@ -36,16 +36,16 @@ Project created by <a href="https://github.com/Alpiii22">JAROT OFFC</a> to make 
 
 ```-  How to reach me ...```
 
-## ```Group Bot Rismabot offc```
+## ```𝐠𝐫𝐨𝐮𝐩 𝐛𝐨𝐭 𝐍𝐚𝐢-𝐃𝐞𝐯-𝐌𝐝```
 [![Group Bot 1](https://img.shields.io/badge/Group%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://tinyurl.com/2nchxnpa) 
 [![Group Bot 2 ](https://img.shields.io/badge/Group%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://tinyurl.com/2gptyhqs) 
 ---------
 
 ## Stats
 
-![Jarotr Offc GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpiii22&show_icons=true&theme=radical)
+![Jarotr Offc GitHub stats](https://github-readme-stats.vercel.app/api?username=nizarrahman&show_icons=true&theme=radical)
 
-<p align="center"><a href="https://github.com/Kangsad01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpiii22&theme=radical&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/Kangsad01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nizarrahman&theme=radical&layout=compact"></a></p>
 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
